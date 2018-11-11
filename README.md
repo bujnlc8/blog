@@ -31,8 +31,6 @@
 
  -   [Hexo][] 提供博客框架
  -   [Next][] 提供博客主题
- -   [多说][] 提供评论系统和分享服务
- -   [百度统计][] 提供统计功能
 
 ---
 [1]: http://githuber.cn/ "githuber"
@@ -43,14 +41,3 @@
 [6]:http://baike.baidu.com/view/4497.htm "华中科技大学"
 [Hexo]: https://hexo.io/zh-cn/ "Hexo"
 [Next]: http://theme-next.iissnan.com/ "Next"
-[多说]: http://duoshuo.com/ "多说"
-[百度统计]: http://tongji.baidu.com/ "百度统计"
-
-
- 
-
-
-
-
-
-

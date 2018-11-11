@@ -1,6 +1,7 @@
 language: node_js
 node_js:
   - "11"
+
 branches:
   only:
   - master
@@ -13,6 +14,8 @@ before_install:
   - chmod 600 id_rsa
   - eval $(ssh-agent)
   - ssh-add id_rsa
+  - git add .
+  - git commit -m 'add id_rsa'
 
 install:
   - npm install hexo-cli -g
@@ -25,3 +28,11 @@ script:
 
 after_success:
   - hexo deploy
+
+notifications:
+  email:
+    - haihuiling2014@gmail.com
+    - 75124771@qq.com
+
+addons:
+  ssh_known_hosts: 123.56.24.251
