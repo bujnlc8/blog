@@ -80,7 +80,3 @@ deploy:
   ignore_errors: false
 
 avatar: /images/avatar.png
-
-search:
-  path: search.xml
-  field: post
