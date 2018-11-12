@@ -3,8 +3,7 @@ title: 关于Javascript中的\x与\u以及\0
 date: 2016-05-17 20:40:23
 tags: 
      - Javascript
-     - Unicode
-categories: web前端
+categories: 前端
 
 ---
 

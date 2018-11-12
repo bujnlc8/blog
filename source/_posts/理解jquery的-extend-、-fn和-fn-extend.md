@@ -2,7 +2,7 @@
 title: 关于jquery的$.extend()、$.fn和$.fn.extend()
 date: 2016-05-30 21:39:00
 tags: jquery
-categories: web前端
+categories: 前端
 ---
 
 ## 前言

@@ -1,8 +1,10 @@
 ---
 title: Python 2 与 Python 3 的差异对比
 date: 2016-10-20 00:10:08
-tags: Python
-categories: web后端
+tags: 
+    - Python
+    - language
+categories: 后端
 ---
 
 # Python 2 与 Python 3 的差异对比
@@ -19,6 +21,8 @@ categories: web后端
     old: print (x, y)   # 打印出元组(x, y) 
     new: print((x, y))  # 同上,在python3中print(x, y)的结果是跟这不同的
 ```
+
+<!-- more -->
 
 在Python3中还可以定义分隔符，使用参数`sep`来指定.
 

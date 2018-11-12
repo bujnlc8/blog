@@ -1,8 +1,8 @@
 ---
-title: css(2)
+title: css part two
 date: 2016-06-04 21:36:10
 tags: CSS
-categories: web前端
+categories: 前端
 ---
 
 ## @import 指令

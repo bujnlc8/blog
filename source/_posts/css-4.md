@@ -1,8 +1,8 @@
 ---
-title: css(4)
+title: css four
 date: 2016-06-06 01:57:25
 tags: CSS
-categories: web前端
+categories: 前端
 ---
 ## 层叠（cascade）
 继承（Inheritance）是从一个元素向其后代元素传递属性值所采用的机制。确定应当向一个元素应用哪些值时，用户代理不仅要考虑继承，还要考虑声明的特殊性，另外需要考虑声明本身的来源。这个过程就称为层叠（cascade）。

@@ -1,8 +1,10 @@
 ---
 title: python dict()用法
 date: 2016-10-18 00:49:30
-tags: Python
-categories: web后端
+tags: 
+   - Python
+   - language
+categories: 后端
 ---
 
 ## 包含双值元组的列表
@@ -12,7 +14,7 @@ dict(lot)
 => {'a': 'b', 'c': 'd', 'e','f'}
 ```
 
-
+<!-- more -->
 
 ## 包含双值列表的列表
 ```python

@@ -4,7 +4,7 @@ date: 2016-05-15 23:33:33
 tags:
   - Javascript
 categories: 
-  - web前端
+  - 前端
 ---
 
 > 原文出处： [Dmitry Soshnikov](http://dmitrysoshnikov.com/ecmascript/javascript-the-core/)  译文出处：[魏志峰（@JeremyWei）](http://weizhifeng.net/javascript-the-core.html)

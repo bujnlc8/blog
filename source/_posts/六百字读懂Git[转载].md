@@ -1,4 +1,4 @@
-layout: post
+---
 title: '六百字读懂Git[转载]'
 date: 2016-05-13 00:38:13
 tags: 

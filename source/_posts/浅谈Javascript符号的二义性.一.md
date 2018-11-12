@@ -4,7 +4,7 @@ date: 2016-05-10 21:34:16
 tags: 
   - Javascript
 categories: 
-  - web前端
+  - 前端
 
 ---
 ## 缘起

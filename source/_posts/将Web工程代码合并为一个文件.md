@@ -1,8 +1,8 @@
-layout: post
+---
 title: 将Web工程代码合并为一个文件
 date: 2016-05-11 19:29:22
 tags: Java
-categories: web后端
+categories: 后端
 
 ---
 ## 扯犊子

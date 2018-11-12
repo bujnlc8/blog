@@ -2,7 +2,7 @@
 title: '谈谈window.open,document.open及window.location.href的区别'
 date:  2016-05-23 22:00:03
 tags:  HTML
-categories: web前端
+categories: 前端
 
 ---
 

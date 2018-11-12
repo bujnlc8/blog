@@ -1,8 +1,8 @@
 ---
-title: css(1)
+title: css part one
 date: 2016-06-03 23:01:25
 tags: CSS
-categories: web前端
+categories: 前端
 
 ---
 ## 替换和非替换元素

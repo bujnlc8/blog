@@ -2,7 +2,7 @@
 title: 关于substr、substring以及slice
 date: 2016-05-27 23:27:33
 tags: Javascript
-categories: web前端
+categories: 前端
 
 ---
 

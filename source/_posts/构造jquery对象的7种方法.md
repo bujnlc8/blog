@@ -2,7 +2,7 @@
 title: 构造jquery对象的7种方法
 date: 2016-06-02 23:28:48
 tags: jquery
-categories: web前端
+categories: 前端
 
 ---
 ## jquery对象

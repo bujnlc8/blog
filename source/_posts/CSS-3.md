@@ -1,8 +1,8 @@
 ---
-title: css(3)
+title: css part three
 date: 2016-06-05 23:17:36
 tags: CSS
-categories: web前端
+categories: 前端
 ---
 
 ## 选择器
