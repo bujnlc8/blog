@@ -17,16 +17,16 @@ tags:
 
 - object是一个type，object is an instance of type。即object是type的一个实例。object 无父类，因为它是链条顶端。
 
-```
+```python
 In [1]: object.__class__
 Out[1]: type
 In [2]: object.__bases__
 Out[2]: ()
-``` 
+```
 
 - type是一种object， type is kind of object。即type是object的子类。type的类型是自己。
 
-```
+```python
 In [3]: type.__bases__
 Out[3]: (object,)
 In [4]: type.__class__
