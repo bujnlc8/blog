@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.com/linghaihui/blog.svg?branch=master)](https://travis-ci.com/linghaihui/blog)
+[![Build Status](https://travis-ci.com/linghaihui/blog.svg?branch=0.0.3)](https://travis-ci.com/linghaihui/blog)
 
 ## 参考资料
 
