@@ -71,7 +71,7 @@ archive_generator:
 # Deployment
 deploy:
   type: rsync
-  host: 123.56.24.251
+  host: 49.234.18.99
   user: root
   root: /opt/blog
   port: 22
