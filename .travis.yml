@@ -1,20 +1,17 @@
 language: node_js
 node_js:
- - '11'
+ - 11
 branches:
   only:
-  - master
+  - /^\d\.\d\.\d/
 cache:
   directories:
     - node_modules
 before_install:
-- openssl aes-256-cbc -K $encrypted_4ec34457a726_key -iv $encrypted_4ec34457a726_iv
-  -in id_rsa.enc -out id_rsa -d
-- chmod 600 id_rsa
+- openssl aes-256-cbc -K $encrypted_1a092584ba06_key -iv $encrypted_1a092584ba06_iv -in id_rsa.enc -out ~/.ssh/id_rsa -d
+- chmod 600 ~/.ssh/id_rsa
 - eval $(ssh-agent)
-- ssh-add id_rsa
-- git add .
-- git commit -m 'add id_rsa'
+- ssh-add ~/.ssh/id_rsa
 install:
   - npm install -g hexo-cli
   - npm install
@@ -27,4 +24,4 @@ notifications:
   email:
    - haihuiling2014@gmail.com
 addons:
-  ssh_known_hosts: 123.56.24.251
+  ssh_known_hosts: 49.234.18.99

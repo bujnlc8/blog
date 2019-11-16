@@ -19,3 +19,9 @@
 [5]:http://theme-next.iissnan.com/ "Next主题中文文档"
 [Hexo]: https://hexo.io/zh-cn/ "Hexo"
 [Next]: http://theme-next.iissnan.com/ "Next"
+
+## 部署
+
+```
+travis encrypt-file -r linghaihui/blog id_rsa  -p
+```
