@@ -24,4 +24,6 @@ notifications:
   email:
    - haihuiling2014@gmail.com
 addons:
-  ssh_known_hosts: 49.234.18.99
+  ssh_known_hosts:
+  - 39.105.199.208
+  - 49.234.18.99
