@@ -4,6 +4,7 @@ node_js:
 branches:
   only:
   - /^\d\.\d\.\d/
+  - master
 cache:
   directories:
     - node_modules

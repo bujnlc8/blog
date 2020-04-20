@@ -4,10 +4,10 @@
   "description": "我的博客",
   "main": "",
   "hexo": {
-    "version": "3.8"
+    "version": "3.9.0"
   },
   "dependencies": {
-    "hexo": "^3.8.0",	  
+    "hexo": "^3.8.0",
     "dtrace-provider": "^0.8.7",
     "hexo-browsersync": "latest",
     "hexo-deployer-git": "^0.1.0",
